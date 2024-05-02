@@ -1,0 +1,6 @@
+# pg example
+comment = 'pg example'
+default_version = '1.0'
+module_pathname = '$libdir/pg_example'
+relocatable = false
+schema = pg_catalog
